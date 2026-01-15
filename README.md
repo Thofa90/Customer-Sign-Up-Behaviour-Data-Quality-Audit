@@ -10,6 +10,7 @@ Using Python-based exploratory data analysis (EDA), the project identifies custo
 🎯 Project Aim
 
 The primary goals of this project are to:
+
 	•	Understand customer acquisition trends and sign-up behavior
 	•	Identify data quality issues that could bias analysis or reporting
 	•	Segment customers by age, acquisition source, plan selection, and marketing consent
@@ -20,6 +21,7 @@ The primary goals of this project are to:
 🛠️ Work & Methodology
 
 The project includes the following key steps:
+
 	•	Data cleaning and preprocessing
 	•	Handling missing values
 	•	Standardizing inconsistent categorical data
@@ -41,6 +43,7 @@ The project includes the following key steps:
 ⸻
 
 💡 Key Business Insights
+
 	•	YouTube, Google, and Instagram are the strongest acquisition channels.
 	•	Premium plans are most popular among users aged 26–45, indicating higher willingness to pay in mid-career segments.
 	•	Younger users (18–25) tend to select Basic plans, reflecting price sensitivity.
@@ -53,6 +56,7 @@ The project includes the following key steps:
 🌍 Real-World Impact
 
 This analysis demonstrates how structured data analysis can:
+
 	•	Improve marketing ROI by focusing spend on high-performing channels and customer segments
 	•	Support revenue growth through age-based pricing and upsell strategies
 	•	Reduce support costs by identifying high-support user groups and improving onboarding
@@ -62,6 +66,7 @@ This analysis demonstrates how structured data analysis can:
 ⸻
 
 🧰 Tools & Technologies
+
 	•	Python
 	•	Pandas
 	•	NumPy
@@ -72,6 +77,7 @@ This analysis demonstrates how structured data analysis can:
 ⸻
 
 📈 Skills Demonstrated
+
 	•	Data Cleaning & Data Quality Auditing
 	•	Exploratory Data Analysis (EDA)
 	•	Customer Segmentation
